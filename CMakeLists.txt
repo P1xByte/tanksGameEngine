@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.29.3 FATAL_ERROR)
+
+project(tanksGameEngine)
+add_executable(tge src/main.cpp)
